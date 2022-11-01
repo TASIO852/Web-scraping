@@ -44,8 +44,6 @@ No arquivo items.py e comentarios.py (esse último arquivo está na pasta spider
 
 Depois que os dados foram extraídos as informações foram salvas em arquivos .csv e .json, o intuito e deixar os dados devidamente preparados para uma análise mais profunda.
 
-## NLP
-
 ## Data Cleaning
 
 ## Dataset _<https://www.kaggle.com/karrrimba/movie-metadatacsv>_
